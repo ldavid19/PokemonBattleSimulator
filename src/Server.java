@@ -228,4 +228,3 @@ public class Server
 }
 
 
-// 22-30 Sardo, Jacob 2019, idk what this is
